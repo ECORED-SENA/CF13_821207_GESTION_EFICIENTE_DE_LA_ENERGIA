@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Planificación y mejora continua del Sistema de Gestión de la Energía'
